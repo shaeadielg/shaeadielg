@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🛠️ Tech Stack
 
-<!--
-**shaeadielg/shaeadielg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Operating Systems
+- **Windows**
+- **Linux** (Debian / Server environments)
 
-Here are some ideas to get you started:
+## 🌐 Infrastructure & Networking
+- Virtualisation & VM Management
+- Remote Access Solutions (Tailscale, RustDesk, VNC)
+- DNS & Hosting
+- Server Setup & Maintenance
+- Cloudflare & Tunnel Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Development
+- Python
+- Automation Scripting
+- Modular AI Concepts
+
+## 🚀 Current Goals
+- Land Remote Internship / Junior IT Role
+- Build Real-World Infrastructure & Automation Projects
+- Expand AI & Python Development Skills
+- Contribute to Open Source
+
+## 📫 Contact Me
+- **Email:** [shaeadielg@gmail.com](mailto:shaeadielg@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/shaeadielg/
+
+⭐ Always learning. Always building.
